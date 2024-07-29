@@ -17,6 +17,6 @@ function redirectToUrl() {
         }
     }
     //document.body.innerHTML = 'No URL provided.';
-    //window.location.href = "https://tpecool.github.io"
+    window.location.href = "https://tpecool.github.io"
 }
 window.onload = redirectToUrl;
